@@ -37,22 +37,23 @@ body{
 }
 .result-box{
     max-height: 100px;
+    max-height: 300px;
     overflow-y: scroll;
 }
 .result-box ul{
     border-top: 1px solid #999;
-    padding: 0 0.5rem;
+    padding: 1 0.5rem;
 }
 .result-box ul li{
     list-style: none;
-    padding: 0.7rem 0.5rem;
+    padding: 1rem 0.5rem;
     border-radius: 3px;
     cursor: pointer;
 }
 .result-box ul li:hover{
     background-color: rgb(252, 228, 232);
 }
-@media screen and (max-width: 428px) {
+@media screen and (max-width: 420px) {
     .search-container {
         width: 90%; 
     }

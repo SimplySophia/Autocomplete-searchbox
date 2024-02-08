@@ -1,12 +1,15 @@
 // Array containing suggested fields for search
 let suggestedFields = [
-    'Web Design Tutorials',
-    'HTML',
-    'CSS',
-    'Github',
-    'Javascript',
-    'CSS Frameworks',
-    'React JS',
+    'What type of resources are available for learning new technologies',
+    'How to acquire a skill in tech',
+    'How to enroll for a course in tech',
+    'Where to learn web development from scratch',
+    'How to understand Javascript',
+    'How to use CSS Frameworks',
+    'How to become a PRO in React JS',
+    'When to start a tech career',
+    'What frameworks are commonly used in this team/project',
+    'What tools or methodologies does the team use for task tracking',
 ]
 
 // Reference to the box element in the DOM
